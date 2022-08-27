@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+
+	<test name="Test run with chrome browser">
+		<parameter name="browser" value="chrome" />
+		<packages>
+			<package name="com.nopcommerce.demo" />
+		</packages>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->

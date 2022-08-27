@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+
+	<test name="Test run with chrome browser">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<!--<class name="com.nopcommerce.demo.TS_00_Preconditions" />
+			<class name="com.nopcommerce.demo.TS_01_Register" />
+			 <class name="com.nopcommerce.demo.TS_02_Login" /> 
+			 <class name="com.nopcommerce.demo.TS_04_Search" /> 
+			 <class name="com.nopcommerce.demo.TS_04_Search" />-->
+			 <class name="com.nopcommerce.demo.TS_04_Search" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->
